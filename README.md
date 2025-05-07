@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a Digital Preservation Training Officer for Digital Preservation Southampton. I am also a researcher of Latin American diasporas and the spatial humanities, with a focus on drug trade history. I enjoy working on different digital humanities projects and learning new skills in the digital cultural heritage field.
+
+- 🔭 I’m currently working on a new blog post series for DPS on GitHub Pages.
+- 🌱 I’m currently learning UI/UX design, Javascript, all things digital preservation.
+- 💬 Ask me about digital mapping, digital forensics.
+- 📫 How to reach me: lisp1n24@soton.ac.uk
 <!--
 **laurisasastoque/laurisasastoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
